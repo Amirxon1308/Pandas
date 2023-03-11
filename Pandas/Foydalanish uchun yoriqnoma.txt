@@ -1,0 +1,5 @@
+Berilgan Pandas_to'liq.ipynb fayldan foydalanish uchun:
+	1. Berilgan .zip faylni arxivdan chiqarish;
+        2. Pandas _to'liq. ipynb faylni jypeter notebookkda UPLOAD qilish kerak;
+        3. Data deb nomlangan papka ichida joylashgan barcha .csv va .json fayllarni xuddi .ipynb faylni upload qilgan kabi, ipynb bilan bitta papkaga upload qilish lozim. 
+        
